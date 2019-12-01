@@ -1,0 +1,8 @@
+Para utilizar dos clases en un mismo div, img, etc:
+
+img-responsive img-circle (Se deja un espacio entre el nombre de las clases para poder utilizar las dos en un mismo parametro).
+
+Para editar varias páginas en un mismo css:
+Agregar id a lo que queramos editar, ya sea un body o un font(body id:"principal").
+
+layoutit.com (bootsrap graphic).
